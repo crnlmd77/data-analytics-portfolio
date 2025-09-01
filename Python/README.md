@@ -7,7 +7,7 @@ A personal portfolio highlighting my growth in data analytics using Python. Show
 
 
 ## 🧠 What You'll See
-## 🐍 Python Projects
+### 🐍 Python Projects
 Exploratory Data Analysis (EDA): Using pandas, matplotlib, seaborn, and plotly to uncover trends and patterns
 Data Cleaning & Transformation: Handling missing values, outliers, and inconsistent formats
 Visualization: Crafting easy-to-read charts and dashboards
