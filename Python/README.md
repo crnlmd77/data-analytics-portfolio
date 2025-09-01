@@ -8,9 +8,7 @@ Welcome to my Python-powered Data Analytics Portfolio! This repository highlight
 
 ---
 
-## 📦 What's Inside
-
-Each project displays key analytics techniques using Python:
+**Each project displays key analytics techniques using Python:**
 
 - 🧹 **Data Cleaning & Preprocessing**: Handling missing values, outliers, and formatting issues
 - 📊 **Exploratory Data Analysis (EDA)**: Visualizing distributions, trends, and relationships
