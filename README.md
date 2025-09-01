@@ -4,7 +4,7 @@ Each project is inspired by practical, real-world challenges and showcases my ab
 
 ---
 
-## 🧠 What’s Inside
+## 🧠 What You'll See:
 
 ### 🐍 Python Projects
 - **Exploratory Data Analysis (EDA):** Using `pandas`, `matplotlib`, `seaborn`, and `plotly` to uncover trends and patterns
@@ -23,7 +23,7 @@ Each project is inspired by practical, real-world challenges and showcases my ab
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Toolkit
 
 | Category      | Tools & Libraries                          |
 |---------------|--------------------------------------------|
