@@ -17,7 +17,7 @@ Each project is inspired by practical, real-world challenges and showcases my ab
 - **Case Studies:** Real-world scenarios like customer segmentation, revenue analysis, and churn prediction
 
 ### 📈 Power BI Dashboards
-- **Interactive Reports:** Dynamic dashboards with slicers, filters, and drill-throughs
+- **Interactive Reports:** Interactive dashboards featuring customizable slicers, responsive filters, and drill-through capabilities for deeper data exploration.
 - **KPI Tracking:** Visualizing performance metrics across time and categories
 - **Data Modeling:** Relationships, calculated columns, and DAX measures
 
