@@ -1,12 +1,8 @@
 # 🗄️ Python Portfolio – Data Analytics Projects
-Welcome to my Personal Portfolio! This is to highlight my growth in data analytics using Python. Showcases work in statistical exploration, data cleaning, and narrative-driven visual analytics. 
+Welcome to my Personal Portfolio! This repository highlights my growth in data analytics using Python. Showcases work in statistical exploration, data cleaning, uncover insights and narrative-driven visual analytics. 
 
 ## 📦 What's Inside
 ### 🐍 Python Portfolio – Data Analytics Projects
-
-Welcome to my Python-powered Data Analytics Portfolio! This repository highlights a collection of real-world projects where I’ve used Python to clean data, uncover insights, and tell compelling stories through analysis and visualization.
-
----
 
 **Each project displays key analytics techniques using Python:**
 
