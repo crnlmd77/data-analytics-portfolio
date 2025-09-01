@@ -12,7 +12,7 @@ Each project is inspired by practical, real-world challenges and showcases my ab
 - **Visualization:** Crafting easy-to-read charts and dashboards
 
 ### 🗄️ SQL Projects
-- **Data Extraction & Manipulation:** Writing optimized queries to retrieve and clean data
+- **Data Extraction & Manipulation:** Writing optimized queries to retrieve and clean data 
 - **Joins, Aggregations, and Subqueries:** Solving complex business questions
 - **Case Studies:** Real-world scenarios like customer segmentation, revenue analysis, and churn prediction
 
