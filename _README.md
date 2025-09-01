@@ -35,4 +35,5 @@ Each project is inspired by practical, real-world challenges and showcases my ab
 ---
 
 ## 📁 Repository Structure
+📁 _Python and SQL components are organized in separate folders for clarity._
 
