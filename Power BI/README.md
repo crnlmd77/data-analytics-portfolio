@@ -1,4 +1,4 @@
-# Power BI - Portfolio Project
+# 📊 Power BI - Portfolio Project
 This Power BI dashboard analyzes flight data across airlines, cities, and travel classes. Key insights include:
 
 - Total sales per airline
