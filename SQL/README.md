@@ -1,9 +1,10 @@
 # 🗄️ SQL Portfolio – Data Analytics Projects
 
 Welcome to my SQL Portfolio! This repository showcases a collection of data analytics projects powered by SQL. Each project demonstrates my ability to extract, transform, and analyze data using structured queries to uncover insights and solve real-world business problems.
+
 ---
 
-## Project 1: Airline Flights Data from Kaggle
+### Project 1: Airline Flights Data from Kaggle
 ### 📊 Sales Analysis 
 This script analyzes sales trends, identifies top-performing airlines, and segments based on booking behavior.
 
