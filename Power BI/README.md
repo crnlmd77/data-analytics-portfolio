@@ -1,5 +1,5 @@
 # 📊 Power BI - Portfolio Project
-Welcome to my Personal Portfolio for Power BI! This includes the projects that I've worked on to improve my knowledge in Data Analytics. 
+Welcome to my Personal Portfolio for Power BI! This includes the projects that I've worked using public datasets on to improve my knowledge in Data Analytics in terms of converting data into powerful visualizations to help drive goal-driven and holistic solutions. 
 
 ---
 
