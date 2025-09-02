@@ -4,7 +4,8 @@ Welcome to my Personal Portfolio for Power BI! This includes the projects that I
 ---
 
 ## Project 1: Airline Performance Dashboard
-This project uses the [Airlines Flights Data](https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data) from Kaggle.
+- This project uses the [Airlines Flights Data](https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data) from Kaggle.
+- This project correlates with Dynamic_Airfare_Insights.ipynb in my Python and Airlines Performance Dashboard in my Power BI repository. 
 ### 📁 File
 - `Flight_Analytics_Dashboard.pbix`: Main dashboard file
 ### This project correlates with Dynamic_Airfare_Insights.ipynb in my Python and Airlines Performance Dashboard in my Power BI repository. 
