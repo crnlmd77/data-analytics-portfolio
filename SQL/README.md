@@ -5,6 +5,7 @@ Welcome to my SQL Portfolio! This repository showcases a collection of data anal
 ---
 
 ### Project 1: Airline Flights Data from Kaggle
+This project correlates with the Python Project: Dynamic_Airfare_Insights in my Python Portfolio and Airlines Performance Dashboard in my Power BI Porfolio repository.
 ### 📊 Sales Analysis 
 This script analyzes sales trends, identifies top-performing airlines, and segments based on booking behavior.
 
