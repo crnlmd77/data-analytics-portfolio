@@ -1,6 +1,8 @@
 # 📊 Power BI - Portfolio Project
 Welcome to my Personal Portfolio for Power BI! This includes the projects that I've worked on to improve my knowledge in Data Analytics. 
 
+---
+
 ## Project 1: Airline Performance Dashboard 
 ### 📁 File
 - `Flight_Analytics_Dashboard.pbix`: Main dashboard file
