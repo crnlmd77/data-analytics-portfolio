@@ -6,7 +6,7 @@ This Power BI dashboard analyzes flight data across airlines, cities, and travel
 - Route popularity heatmap
 - Price trends vs Days left
 
-## File
+## 📁 File
 - `Flight_Analytics_Dashboard.pbix`: Main dashboard file
 
 ## Tools Used
