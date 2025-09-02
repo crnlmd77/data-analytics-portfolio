@@ -23,7 +23,6 @@ This portfolio features:
 - 🔗 **Joins & Relationships**: Combining multiple tables to build meaningful datasets
 - 📈 **Aggregations & KPIs**: Summarizing data to track performance metrics
 - 🧠 **Subqueries & CTEs**: Solving complex problems with layered logic
-- 📅 **Time-Based Analysis**: Working with dates, times, and intervals
 - 🧮 **Window Functions**: Ranking, running totals, and advanced analytics
 
 ---
