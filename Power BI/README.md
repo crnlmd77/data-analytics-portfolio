@@ -1,7 +1,7 @@
 # 📊 Power BI - Portfolio Project
 This Power BI dashboard analyzes flight data across airlines, cities, and travel classes. Key insights include:
 
-- Total sales per airline
+- Total Sales per Airline
 - Class comparison: Economy vs Business
 - Route popularity heatmap
 - Price trends vs Days left
@@ -9,8 +9,11 @@ This Power BI dashboard analyzes flight data across airlines, cities, and travel
 ## 📁 File
 - `Flight_Analytics_Dashboard.pbix`: Main dashboard file
 
-## Tools Used
-- Power BI
-- SQL (MySQL for data prep)
+## 🛠️ Toolkit
+
+| Library       | Purpose                          |
+|---------------|----------------------------------|
+| Power BI      | Visualization                    |
+| MySQL         | Data Prep                        |
 
 
