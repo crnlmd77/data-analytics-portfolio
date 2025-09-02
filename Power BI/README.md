@@ -13,6 +13,8 @@ Welcome to my Personal Portfolio for Power BI! This includes the projects that I
 - Route popularity heatmap
 - Price trends vs Days left
 
+---
+
 ## 🛠️ Toolkit
 | Library       | Purpose                          |
 |---------------|----------------------------------|
