@@ -6,7 +6,8 @@ Welcome to my SQL Portfolio! This repository showcases a collection of data anal
 
 ## Project 1: Airline Flights Data 
 - This project uses the [Airlines Flights Data](https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data) from Kaggle.
-- This project correlates with Dynamic_Airfare_Insights.ipynb in my Python and Airlines Performance Dashboard in my Power BI repository folder. 
+- This project correlates with Airlines_Flights_Data.ipynb in my Python and Airlines_Flights_Data.pbix  in my Power BI repository folder.
+  
 ### 📊 Sales Analysis 
 This script analyzes sales trends, identifies top-performing airlines, and segments based on booking behavior.
 
