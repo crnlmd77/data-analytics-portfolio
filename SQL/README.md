@@ -11,7 +11,7 @@ Welcome to my SQL Portfolio! This repository showcases a collection of data anal
 This script analyzes sales trends, identifies top-performing airlines, and segments based on booking behavior.
 
 ### 🌟 Techniques Used
-- INNER JOIN
+- UNION ALL
 - GROUP BY with aggregation
 - CASE statements
 
