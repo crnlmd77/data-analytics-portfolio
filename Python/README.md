@@ -2,6 +2,8 @@
 Welcome to my Personal Portfolio! This repository highlights my growth in data analytics using Python. Showcases work in statistical exploration, data cleaning, uncover insights and narrative-driven visual analytics. 
 
 ---
+##Project 1: Airlines Flights Data
+---
 
 ## 📦 What's Inside
 ### 🐍 Python Portfolio – Data Analytics Projects
@@ -25,7 +27,7 @@ Welcome to my Personal Portfolio! This repository highlights my growth in data a
 | Matplotlib    | Static visualizations            |
 | Seaborn       | Statistical plots                |
 | Plotly        | Interactive dashboards           |
-| Jupyter       | Interactive notebooks            |
+| Google Colab  | Interactive notebooks            |
 
 ---
 
