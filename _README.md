@@ -30,9 +30,9 @@ My projects are also numbered and stated in README notes per folder for better u
 | Category      | Tools & Libraries                          |
 |---------------|--------------------------------------------|
 | Programming   | Python (`pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`) |
-| Databases     | SQL (PostgreSQL, MySQL Workbench)          |
+| Databases     | SQL (PostgreSQL, MySQL Workbench, mode.com)|
 | Visualization | Power BI, Excel                            |
-| Others        | Jupyter Notebook,                          |
+| Others        | Google Colab                               |
 
 ---
 
