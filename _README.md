@@ -32,7 +32,7 @@ My projects are also numbered and stated in README notes per folder for better u
 | Programming   | Python (`pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`) |
 | Databases     | SQL (PostgreSQL, MySQL Workbench, mode.com)|
 | Visualization | Power BI, Excel                            |
-| Others        | Google Colab                               |
+| Others        | Google Colab, Mode.com                     |
 
 ---
 
