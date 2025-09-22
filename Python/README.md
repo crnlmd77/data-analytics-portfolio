@@ -4,7 +4,7 @@ Welcome to my Personal Portfolio! This repository highlights my growth in data a
 ---
 ## Project 1: Airlines Flights Data
 - This project uses the [Airlines Flights Data](https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data) from Kaggle.
-- This project correlates with Airline_Flights_Data.ipynb in my Python and airlines_flights_data.sql in my SQL repository folder.
+- This project correlates with Airline_Flights_Data.pbix in my Python and airlines_flights_data.sql in my SQL repository folder.
   
 ---
 
