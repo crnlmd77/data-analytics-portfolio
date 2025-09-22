@@ -20,6 +20,7 @@ This script analyzes sales trends, identifies top-performing airlines, and segme
 - GROUP BY with aggregation
 - CASE statements
 - JOIN
+- SUBQUERIES
 
 --- 
 
