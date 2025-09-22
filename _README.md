@@ -2,6 +2,8 @@
 Welcome to my Data Analytics Portfolio! This repository highlights my ability to analyze, visualize, and communicate data-driven insights using **Python**, **SQL**, and **Power BI**. 
 Each project is inspired by practical, real-world challenges and showcases my ability to convert complex datasets into clear, impactful insights.
 
+## My projects are also numbered and stated in README notes per folder for better understanding of the datasets used.
+
 ---
 
 ## 🧠 What You'll See:
