@@ -11,10 +11,15 @@ Welcome to my SQL Portfolio! This repository showcases a collection of data anal
 ### 📊 Sales Analysis 
 This script analyzes sales trends, identifies top-performing airlines, and segments based on booking behavior.
 
+---
+## Project 2: 
+---
+
 ### 🌟 Techniques Used
 - UNION ALL
 - GROUP BY with aggregation
 - CASE statements
+- JOIN
 
 --- 
 
@@ -37,7 +42,7 @@ This portfolio features:
 | SQL         | Core query language              |
 | PostgreSQL  | Primary database engine          |
 | MySQL       | Alternative database (optional)  |
-| DBeaver     | SQL IDE for writing and testing  |
+| VS Code     | SQL IDE for writing and testing  |
 | pgAdmin     | Database management              |
 
 
