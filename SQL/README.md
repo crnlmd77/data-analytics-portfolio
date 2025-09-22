@@ -7,12 +7,12 @@ Welcome to my SQL Portfolio! This repository showcases a collection of data anal
 ## Project 1: Airline Flights Data 
 - This project uses the [Airlines Flights Data](https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data) from Kaggle.
 - This project correlates with Airlines_Flights_Data.ipynb in my Python and Airlines_Flights_Data.pbix  in my Power BI repository folder.
-  
-### 📊 Sales Analysis 
-This script analyzes sales trends, identifies top-performing airlines, and segments based on booking behavior.
+- This script analyzes sales trends, identifies top-performing airlines, and segments based on booking behavior.
 
 ---
-## Project 2: 
+## Project 2: acesguerra_student_por_2 dataset 
+- This project uses the [acesguerra_student_por_2 dataset]([https://www.mode.com](https://app.mode.com/editor/crnldmm/reports/eef2d386da65/queries/1231415a261d)) from Mode.com.
+- This Script analyzes student data, identifies average grades, student who has the most absences, and student grades behavior per grading.
 ---
 
 ### 🌟 Techniques Used
@@ -21,6 +21,10 @@ This script analyzes sales trends, identifies top-performing airlines, and segme
 - CASE statements
 - JOIN
 - SUBQUERIES
+- ROLL UP
+- HAVING
+- WHERE
+- COALESCE
 
 --- 
 
