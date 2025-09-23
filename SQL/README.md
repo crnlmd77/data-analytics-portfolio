@@ -15,8 +15,8 @@ Welcome to my SQL Portfolio! This repository showcases a collection of data anal
 - This Script analyzes student data, identifies average grades, student who has the most absences, and student grades behavior per grading.
 ---
 ### Project 3: tutorial_crunchbase Dataset 
--This project uses the *tutorial.crunchbase_companies, tutorial.crunchbase_companies, tutorial.crunchbase_investments, tutorial.crunchbase_investments_part1,  tutorial.crunchbase_investments_part2*  from [Mode.com](https://app.mode.com/home/crnldmm/search).
--This script analyzes whether the company has an investor or invested in a company, and their investment start date.
+- This project uses the *tutorial.crunchbase_companies, tutorial.crunchbase_companies, tutorial.crunchbase_investments, tutorial.crunchbase_investments_part1,  tutorial.crunchbase_investments_part2*  from [Mode.com](https://app.mode.com/home/crnldmm/search).
+- This script analyzes whether the company has an investor or invested in a company, and their investment start date.
 ---
 
 ### 🌟 Techniques Used in the Projects
