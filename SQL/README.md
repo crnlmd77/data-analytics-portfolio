@@ -11,11 +11,11 @@ Welcome to my SQL Portfolio! This repository showcases a collection of data anal
 
 ---
 ### Project 2: acesguerra_student_por_2 Dataset 
-- This project uses the [acesguerra_student_por_2 dataset](https://app.mode.com/editor/crnldmm/reports/eef2d386da65/queries/1231415a261d) from [Mode.com](https://app.mode.com/home/crnldmm/search).
+- This project uses the [acesguerra_student_por_2 dataset](https://app.mode.com/editor/crnldmm/reports/eef2d386da65/queries/1231415a261d) from [Mode.com](https://app.mode.com/home/).
 - This Script analyzes student data, identifies average grades, student who has the most absences, and student grades behavior per grading.
 ---
 ### Project 3: tutorial_crunchbase Dataset 
-- This project uses the *tutorial.crunchbase_companies, tutorial.crunchbase_companies, tutorial.crunchbase_investments, tutorial.crunchbase_investments_part1,  tutorial.crunchbase_investments_part2*  from [Mode.com](https://app.mode.com/home/crnldmm/search).
+- This project uses the *tutorial.crunchbase_companies, tutorial.crunchbase_companies, tutorial.crunchbase_investments, tutorial.crunchbase_investments_part1,  tutorial.crunchbase_investments_part2*  from [Mode.com](https://app.mode.com/home/).
 - This script analyzes whether the company has an investor or invested in a company, and their investment start date.
 ---
 
