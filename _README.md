@@ -7,8 +7,7 @@ My projects are also numbered and stated in README notes per folder for better u
 ## Google Data Analytics Certificate
 Completed October 2025 via Coursera  
 Skills: Data Cleaning, Data Analysis, SQL, R Programming, Tableau, Data Visualization  
-[View Certificate]([https://www.coursera.org/account/accomplishments/certificate/XYZ123](https://coursera.org/share/73c9163273175cbd908ae56d565677a5)<img width="464" height="19" alt="image" src="https://github.com/user-attachments/assets/50f52bdc-8357-469a-9469-8f09aa052820" />
-)
+[View Certificate]([https://www.coursera.org/account/accomplishments/certificate/XYZ123](https://coursera.org/share/73c9163273175cbd908ae56d565677a5)
 ---
 
 ## 🧠 What You'll See:
