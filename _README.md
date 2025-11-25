@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-Welcome to my Data Analytics Portfolio! I am a curious and result-oriented Google-certified Data Analytics professional and this repository highlights my ability to analyze, visualize, and communicate data-driven insights using **Python**, **SQL**, and **Power BI**. 
+Welcome to my Data Analytics Portfolio! I am a curious and result-oriented Google-certified Data Analytics professional and this repository highlights my ability to analyze, visualize, and communicate data-driven insights using **Python**, **SQL**, and **Power BI**. And also knowledgable in R programming and Tableau.
 Each project is inspired by practical, real-world challenges and showcases my ability to convert complex datasets into clear, impactful insights.
 
 My projects are also numbered and stated in README notes per folder for better understanding of the datasets used.
@@ -7,7 +7,6 @@ My projects are also numbered and stated in README notes per folder for better u
 ## Google Data Analytics Certificate
 - Completed October 2025 via Coursera  
 - Skills: Data Cleaning, Data Analysis, SQL, R Programming, Tableau, Data Visualization  
-- [View Certificate](https://coursera.org/share/73c9163273175cbd908ae56d565677a5)
 
 ---
 
